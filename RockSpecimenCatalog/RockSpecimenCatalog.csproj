@@ -159,6 +159,8 @@
   <ItemGroup>
     <Content Include="ILLink\ILLink.Descriptors.LibraryBuild.xml" />
     <Content Include="Image\logo1.png" />
+    <Content Include="database\RockInfoCatalogData.sql" />
+    <Content Include="database\RockInfoCatalogSource.sql" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
